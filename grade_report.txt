@@ -1,0 +1,12 @@
+120 - 8 = 112pts
+
+1b -1pt
+  should "count"
+1c -5pts
+  no submission for that part
+2a -1pt
+  you xmlizer will likely to generate xml with prohibited characters including "&"
+  which will make the xml file invalid
+  try to use another package to write into xml files
+3 -1pt
+  your generated <price>s in xml file contain non-numeric characters
